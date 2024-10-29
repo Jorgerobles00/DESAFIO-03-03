@@ -1,0 +1,58 @@
+.imagen-disney-logo-centro{
+  text-align: center;
+}
+.imagen-disney-logo{
+  width: 500px;
+}
+
+h1 {
+text-align: center;
+font-size: 50px;
+letter-spacing: 15px;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+color: rgb(187, 83, 151);
+font-weight:lighter ;
+}
+
+h2 {
+  color:rgb(187, 83, 151);
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  letter-spacing: 10px;
+  font-weight:lighter ;
+  font-size: 30px;
+}
+
+p{
+  color: rgb(72, 113, 188);
+  font-size: 20px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
+.imagen-pop{
+
+  width: 550px;
+}
+
+.imagen-derecha{
+  float: right;
+}
+
+.imagen-izquierda{
+float: left;
+}
+
+.imagen-caribbean{
+width: 550px;
+margin-right: 10px;
+margin-bottom: 15px;
+}
+
+.imagen-animal-kingdom{
+  width: 600px;
+}
+
+
+.imagen-fondo{
+  width: 2360px;
+}
